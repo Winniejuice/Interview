@@ -13,20 +13,10 @@
 
 ## 目录
 
-- [这是？](#这是)
-- [为何要用到它？](#为何要用到它)
-- [如何使用它](#如何使用它)
-- [拥有一名 Googler 的心态](#拥有一名-googler-的心态)
-- [我得到了工作吗？](#我得到了工作吗)
-- [跟随着我](#跟随着我)
-- [不要自以为自己足够聪明](#不要自以为自己足够聪明)
 - [关于 Google](#关于-google)
-- [相关视频资源](#相关视频资源)
 - [面试过程 & 通用的面试准备](#面试过程--通用的面试准备)
-- [为你的面试选择一种语言](#为你的面试选择一种语言)
 - [在你开始之前](#在你开始之前)
-- [你所看不到的](#你所看不到的)
-- [日常计划](#日常计划)
+
 - [必备知识](#必备知识)
 - [算法复杂度 / Big-O / 渐进分析法](#算法复杂度--big-o--渐进分析法)
 - [数据结构](#数据结构)
@@ -112,37 +102,37 @@
 - [X] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
 > 我的笔记：
--“Introduction to CS”： 
-    -[ ] Introduction to Computer Science
--(at least) one object-oriented programming language: 
-    -1) Java，若干视频
-    -2) Python
--Other programming languages: 
-    -[ ] JavaScript
-    -[X] CSS/HTML
--Test your code: 
-    -[ ] Testing, 
-    -[ ] Debugging
--Discrete math: logical reasoning and knowledge
-    -[ ] Mathematics for Computer Science
-    -[ ] Probabilistic Graphical Models
--Algorithms and data structures: strong understanding
--Operating systems: strong knowledge
--Artificial intelligence and machine learning
+“Introduction to CS”： 
+    [ ] Introduction to Computer Science
+(at least) one object-oriented programming language: 
+    1) Java，若干视频
+    2) Python
+Other programming languages: 
+    [ ] JavaScript
+    [X] CSS/HTML
+Test your code: 
+    [ ] Testing, 
+    [ ] Debugging
+Discrete math: logical reasoning and knowledge
+    [ ] Mathematics for Computer Science
+    [ ] Probabilistic Graphical Models
+Algorithms and data structures: strong understanding
+Operating systems: strong knowledge
+Artificial intelligence and machine learning
     若干视频
--Learn Android development, web development:
-    -[ ] 官方教程
--Learn cryptography:
-    -[ ] 自己搜
--Work on projects outside of the classroom
-    -[ ] Capstone project: Analyzing (Social) Network Data - scroll down to bottom of page, UCSD, Coursera
-    -[ ] Capstone project: Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines, Duke University, Coursera
--Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug: 
-    -[ ] 参与Github项目
--Work on projects with other programmers:
-    -[ ] work with other programmers in a team, learn from others 
--Gain internship experience in software engineering
-    -[ ] internship
+Learn Android development, web development:
+    [ ] 官方教程
+Learn cryptography:
+    [ ] 自己搜
+Work on projects outside of the classroom
+    [ ] Capstone project: Analyzing (Social) Network Data - scroll down to bottom of page, UCSD, Coursera
+    [ ] Capstone project: Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines, Duke University
+Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug: 
+    [ ] 参与Github项目
+Work on projects with other programmers:
+    [ ] work with other programmers in a team, learn from others 
+Gain internship experience in software engineering
+    [ ] internship
 
 - [ ] Google 检索的原理：
     - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
@@ -157,12 +147,6 @@
     - [ ] [Demis Hassabis 的心灵直白](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 - [ ] [书籍：Google 公司是如何运作的](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 - [ ] [由 Google 通告所制作 —— 2016年10月（视频）](https://www.youtube.com/watch?v=q4y0KOeXViI)
-
-## 相关视频资源
-
-部分视频只能通过在 Coursera、Edx 或 Lynda.com class 上注册登录才能观看。这些视频被称为网络公开课程（MOOC）。即便是免费观看，部分课程可能会由于不在时间段内而无法获取。因此，你需要多等待几个月。
-
-    很感谢您能帮我把网络公开课程的视频链接转换成公开的视频源，以代替那些在线课程的视频。此外，一些大学的讲座视频也是我所青睐的。
 
 ## 面试过程 & 通用的面试准备
 
@@ -191,102 +175,25 @@
         - [ ] [“如何在世界四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频）](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [ ] [面试 Google 失败](http://alexbowe.com/failing-at-google-interviews/)
 
-## 为你的面试选择一种语言
-
-在这，我就以下话题写一篇短文 —— [重点：为在 Google 的面试选择一种语言](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
-
-在大多数公司的面试当中，你可以在编程这一环节，使用一种自己用起来较为舒适的语言去完成编程。但在 Google，你只有三种固定的选择：
-
-- C++
-- Java
-- Python
-
-有时你也可以使用下面两种，但需要事先查阅说明。因为，说明中会有警告：
-
-- JavaScript
-- Ruby
-
-你需要对你所选择的语言感到非常舒适且足够了解。
-
-更多关于语言选择的阅读：
-
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-- https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
-
-[在此查看相关语言的资源](programming-language-resources.md)
-
-由于，我正在学习C、C++ 和 Python。因此，在下面你会看到部分关于它们的学习资料。相关书籍请看文章的底部。
-
 ## 在你开始之前
 
-该列表已经持续更新了很长的一段时间，所以，我们的确很容易会对其失去控制。
+### 为你的面试选择一种语言
 
-这里列出了一些我所犯过的错误，希望您不要重滔覆辙。
+> The reasons I choose Java and Python: Java for web development, Python for machine learning.
 
-### 1. 你不可能把所有的东西都记住
-
-就算我查看了数小时的视频，并记录了大量的笔记。几个月后的我，仍然会忘却其中大部分的东西。所以，我翻阅了我的笔记，并将可回顾的东西制作成抽认卡（flashcard）（请往下看）
-
-### 2. 使用抽认卡
-
-为了解决善忘的问题，我制作了一些关于抽认卡的页面，用于添加两种抽认卡：正常的及带有代码的。每种卡都会有不同的格式设计。
-
-而且，我还以移动设备为先去设计这些网页，以使得在任何地方的我，都能通过我的手机及平板去回顾知识。
-
-你也可以免费制作属于你自己的抽认卡网站：
-
-- [抽认卡页面的代码仓库](https://github.com/jwasham/computer-science-flash-cards)
-- [我的抽认卡数据库](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db)：有一点需要记住的是，我做事有点过头，以至于把卡片都覆盖到所有的东西上。从汇编语言和 Python 的细枝末节，乃至到机器学习和统计都被覆盖到卡片上。而这种做法，对于 Google 的要求来说，却是多余。
-
-**在抽认卡上做笔记：** 若你第一次发现你知道问题的答案时，先不要急着把其标注成“已懂”。你需要做的，是去查看一下是否有同样的抽认卡，并在你真正懂得如何解决问题之前，多问自己几次。重复地问答可帮助您深刻记住该知识点。
-
-### 3. 回顾，回顾，回顾
-
-我留有一组 ASCII 码表、OSI 堆栈、Big-O 记号及更多的小抄纸，以便在空余的时候可以学习。
-
-每编程半个小时就要休息一下，并去回顾你的抽认卡。
-
-### 4. 专注
-
-在学习的过程中，往往会有许多令人分心的事占据着我们宝贵的时间。因此，专注和集中注意力是非常困难的。
-
-## 你所看不到的
-
-由于，这个巨大的列表一开始是作为我个人从 Google 面试指导笔记所形成的一个事件处理列表。因此，有一些我熟悉且普遍的技术在此都未被谈及到：
-
-- SQL
-- Javascript
-- HTML、CSS 和其他前端技术
-
-## 日常计划
-
-部分问题可能会花费一天的时间去学习，而部分则会花费多天。当然，有些学习并不需要我们懂得如何实现。
-
-因此，每一天我都会在下面所列出的列表中选择一项，并查看相关的视频。然后，使用以下的一种语言去实现：
-
-    C —— 使用结构体和函数，该函数会接受一个结构体指针 * 及其他数据作为参数。
-    C++ —— 不使用内建的数据类型。
-    C++ —— 使用内建的数据类型，如使用 STL 的 std::list 来作为链表。
-    Python ——  使用内建的数据类型（为了持续练习 Python），并编写一些测试去保证自己代码的正确性。有时，只需要使用断言函数 assert() 即可。
-    此外，你也可以使用 Java 或其他语言。以上只是我的个人偏好而已。
-
-为何要在这些语言上分别实现一次？
-
-    因为可以练习，练习，练习，直至我厌倦它，并完美地实现出来。（若有部分边缘条件没想到时，我会用书写的形式记录下来并去记忆）
-    因为可以在纯原生的条件下工作（不需垃圾回收机制的帮助下，分配/释放内存（除了 Python））
-    因为可以利用上内建的数据类型，以使得我拥有在现实中使用内建工具的经验（在生产环境中，我不会去实现自己的链表）
-
-就算我没有时间去每一项都这么做，但我也会尽我所能的。
+### 这里列出了一些我所犯过的错误，希望您不要重滔覆辙。
+> Tips:
+> 作大量学习笔记 → 经常回顾复习 → 经常自检是否完全掌握，查漏补缺
+> 时间管理： 1）保持专注 2）空闲休息用于复习 3）每天坚持
+> 基础记忆知识：ASCII 码表、OSI 堆栈、Big-O 记号
+> coding练习方法：
+>   1）不断练习，直至厌倦，并完美实现出来。（边缘条件等记录并记忆）
+>   2) 使用内建的数据类型实现：利于实际使用
+>   3) 不使用内建的数据类型实现：利于原生条件下工作（不需垃圾回收机制的帮助下，分配/释放内存（除了Python））
+>   4) 面试前练习白板写代码，再到计算机上测试
 
 在这里，你可以查看到我的代码：
- - [C](https://github.com/jwasham/practice-c)
- - [C++](https://github.com/jwasham/practice-cpp)
  - [Python](https://github.com/jwasham/practice-python)
-
-你不需要记住每一个算法的内部原理。
-
-在一个白板上写代码，而不要直接在计算机上编写。在测试完部分简单的输入后，到计算机上再测试一遍。
 
 ## 必备知识
 
@@ -303,6 +210,9 @@
 - [ ] **浮点数是如何存储的：**
     - [ ] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
     - [ ] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
+- SQL
+- Javascript
+- HTML、CSS 和其他前端技术
 
 ## 算法复杂度 / Big-O / 渐进分析法
 - 并不需要实现
