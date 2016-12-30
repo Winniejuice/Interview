@@ -7,9 +7,6 @@
 ## 这是？
 
 这是我为了从 web 开发者（自学、非计算机科学学位）蜕变至 Google 软件工程师所制定的计划，其内容历时数月。
-
-![白板上编程 ———— 来自 HBO 频道的剧集，“硅谷”](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
-
 这一长列表是从 **Google 的指导笔记** 中萃取出来并进行扩展。因此，有些事情你必须去了解一下。我在列表的底部添加了一些额外项，用于解决面试中可能会出现的问题。这些额外项大部分是来自于 Steve Yegge 的“[得到在 Google 工作的机会](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)”。而在 Google 指导笔记的逐字间，它们有时也会被反映出来。
 
 ---
@@ -110,59 +107,11 @@
 
 ---
 
-## 为何要用到它？
-
-我一直都是遵循该计划去准备 Google 的面试。自 1997 年以来，我一直从事于 web 程序的构建、服务器的构建及创业型公司的创办。对于只有着一个经济学学位，而不是计算机科学学位（CS degree）的我来说，在职业生涯中所取得的都非常成功。然而，我想在 Google 工作，并进入大型系统中，真正地去理解计算机系统、算法效率、数据结构性能、低级别编程语言及其工作原理。可一项都不了解的我，怎么会被 Google 所应聘呢？
-
-当我创建该项目时，我从一个堆栈到一个堆都不了解。那时的我，完全不了解 Big-O 、树，或如何去遍历一个图。如果非要我去编写一个排序算法的话，我只能说我所写的肯定是很糟糕。一直以来，我所用的任何数据结构都是内建于编程语言当中。至于它们在背后是如何运作，对此我一概不清楚。此外，以前的我并不需要对内存进行管理，最多就只是在一个正在执行的进程抛出了“内存不足”的错误后，采取一些权变措施。而在我的编程生活中，也甚少使用到多维数组，可关联数组却成千上万。而且，从一开始到现在，我都还未曾自己实现过数据结构。
-
-就是这样的我，在经过该学习计划后，已然对被 Google 所雇佣充满信心。这是一个漫长的计划，以至于花费了我数月的时间。若您早已熟悉大部分的知识，那么也许能节省大量的时间。
-
-## 如何使用它
-
-下面所有的东西都只是一个概述。因此，你需要由上而下逐一地去处理它。
-
-在学习过程中，我是使用 GitHub 特殊的语法特性 markdown flavor 去检查计划的进展，包括使用任务列表。
-
-- [x] 创建一个新的分支，以使得你可以像这样去检查计划的进展。直接往方括号中填写一个字符 x 即可：[x]
-
-[更多关于 Github-flavored markdown 的详情](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## 拥有一名 Googler 的心态
-
-把一个（或两个）印有“[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)”的图案打印出来，并用你誓要成功的眼神盯着它。
-
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
-
-## 我得到了工作吗？
-
-我还没去应聘。
-
-因为我离完成学习（完成该疯狂的计划列表）还需要数天的时间，并打算在下周开始用一整天的时间，以编程的方式去解决问题。当然，这将会持续数周的时间。然后，我才通过使用在二月份所得到的一个介绍资格，去正式应聘 Google（没错，是二月份时就得到的）。
-
-    感谢 JP 的这次介绍。
-
-## 跟随着我
-
-目前我仍在该计划的执行过程中，如果你想跟随我脚步去学习的话，可以登进我在 [GoogleyAsHeck.com](https://googleyasheck.com/) 上所写的博客。
-
-下面是我的联系方式：
-
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
-- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
-- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
-
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
-
-## 不要自以为自己足够聪明
-
-- Google 的工程师都是才智过人的。但是，就算是工作在 Google 的他们，仍然会因为自己不够聪明而感到一种不安。
-- [天才程序员的神话](https://www.youtube.com/watch?v=0SARbwvhupQ)
-
 ## 关于 Google
 
 - [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+> 我的笔记：
+
 - [ ] Google 检索的原理：
     - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
