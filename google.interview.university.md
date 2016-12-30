@@ -6,7 +6,7 @@
 
 ## 这是？
 
-这是我为了从 web 开发者（自学、非计算机科学学位）蜕变至 Google 软件工程师所制定的计划，其内容历时数月。
+这是我[John Washam]为了从 web 开发者（自学、非计算机科学学位）蜕变至 Google 软件工程师所制定的计划，其内容历时数月。
 这一长列表是从 **Google 的指导笔记** 中萃取出来并进行扩展。因此，有些事情你必须去了解一下。我在列表的底部添加了一些额外项，用于解决面试中可能会出现的问题。这些额外项大部分是来自于 Steve Yegge 的“[得到在 Google 工作的机会](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)”。而在 Google 指导笔记的逐字间，它们有时也会被反映出来。
 
 ---
@@ -110,39 +110,39 @@
 ## 关于 Google
 
 - [X] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-> 我的笔记：
-“Introduction to CS”： 
-[ ] Introduction to Computer Science
-(at least) one object-oriented programming language: 
-1) Java，若干视频
-2) Python
-Other programming languages: 
-[ ] JavaScript
-[X] CSS/HTML
-Test your code: 
-[ ] Testing, 
-[ ] Debugging
-Discrete math: logical reasoning and knowledge
-[ ] Mathematics for Computer Science
-[ ] Probabilistic Graphical Models
-Algorithms and data structures: strong understanding
-Operating systems: strong knowledge
-Artificial intelligence and machine learning
-若干视频
-Learn Android development, web development:
-[ ] 官方教程
-Learn cryptography:
-[ ] 自己搜
 
-Work on projects outside of the classroom
-[ ] Capstone project: Analyzing (Social) Network Data - scroll down to bottom of page, UCSD, Coursera
-[ ] Capstone project: Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines, Duke University, Coursera
-Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug: 
-[ ] 参与Github项目
-Work on projects with other programmers:
-[ ] work with other programmers in a team, learn from others 
-Gain internship experience in software engineering
-[ ] internship
+> 我的笔记：
+-“Introduction to CS”： 
+    -[ ] Introduction to Computer Science
+-(at least) one object-oriented programming language: 
+    -1) Java，若干视频
+    -2) Python
+-Other programming languages: 
+    -[ ] JavaScript
+    -[X] CSS/HTML
+-Test your code: 
+    -[ ] Testing, 
+    -[ ] Debugging
+-Discrete math: logical reasoning and knowledge
+    -[ ] Mathematics for Computer Science
+    -[ ] Probabilistic Graphical Models
+-Algorithms and data structures: strong understanding
+-Operating systems: strong knowledge
+-Artificial intelligence and machine learning
+    若干视频
+-Learn Android development, web development:
+    -[ ] 官方教程
+-Learn cryptography:
+    -[ ] 自己搜
+-Work on projects outside of the classroom
+    -[ ] Capstone project: Analyzing (Social) Network Data - scroll down to bottom of page, UCSD, Coursera
+    -[ ] Capstone project: Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines, Duke University, Coursera
+-Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug: 
+    -[ ] 参与Github项目
+-Work on projects with other programmers:
+    -[ ] work with other programmers in a team, learn from others 
+-Gain internship experience in software engineering
+    -[ ] internship
 
 - [ ] Google 检索的原理：
     - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
