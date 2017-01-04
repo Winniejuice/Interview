@@ -101,7 +101,7 @@
 
 - [X] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
-> 我的笔记：
+> ————————我的笔记：——————————
 
 “Introduction to CS”： 
 
@@ -165,7 +165,8 @@ Work on projects with other programmers:
 Gain internship experience in software engineering
 
     [ ] internship
-
+    
+——————————————————————————
 
 - [ ] Google 检索的原理：
     - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
