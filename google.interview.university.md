@@ -102,37 +102,70 @@
 - [X] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
 > 我的笔记：
+
 “Introduction to CS”： 
+
     [ ] Introduction to Computer Science
+    
 (at least) one object-oriented programming language: 
+
     1) Java，若干视频
+    
     2) Python
+    
 Other programming languages: 
+
     [ ] JavaScript
+    
     [X] CSS/HTML
+    
 Test your code: 
+
     [ ] Testing, 
+    
     [ ] Debugging
+    
 Discrete math: logical reasoning and knowledge
+
     [ ] Mathematics for Computer Science
+    
     [ ] Probabilistic Graphical Models
+    
 Algorithms and data structures: strong understanding
+
 Operating systems: strong knowledge
+
 Artificial intelligence and machine learning
+
     若干视频
+    
 Learn Android development, web development:
+
     [ ] 官方教程
+    
 Learn cryptography:
+
     [ ] 自己搜
+    
 Work on projects outside of the classroom
+
+
     [ ] Capstone project: Analyzing (Social) Network Data - scroll down to bottom of page, UCSD, Coursera
+    
     [ ] Capstone project: Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines, Duke University
+    
 Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug: 
+
     [ ] 参与Github项目
+    
 Work on projects with other programmers:
+
     [ ] work with other programmers in a team, learn from others 
+    
 Gain internship experience in software engineering
+
     [ ] internship
+
 
 - [ ] Google 检索的原理：
     - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
